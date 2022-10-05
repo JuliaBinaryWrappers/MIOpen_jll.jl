@@ -1,0 +1,21 @@
+name = "MIOpen_jll"
+uuid = "2409bb75-d5ef-542a-ac68-1cfd4c37dc24"
+version = "5.2.3+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+rocBLAS_jll = "1ef8cab2-a151-54b4-a57f-5fbb4046a4ab"
+SQLite_jll = "76ed43ae-9a5d-5a62-8c75-30186b810ce8"
+HIP_jll = "2696aab5-0948-5276-aa9a-2a86a37016b8"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.0"
+rocBLAS_jll = "5.2.3"
+HIP_jll = "5.2.3"
+boost_jll = "1.79.0"

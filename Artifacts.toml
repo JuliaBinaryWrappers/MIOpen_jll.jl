@@ -1,0 +1,10 @@
+[[MIOpen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "47f9f7e8df1e973a09db0937199b47504c8081db"
+libc = "glibc"
+os = "linux"
+
+    [[MIOpen.download]]
+    sha256 = "7087913672f30933a49b63acb5a63ccf2bf305bb7a2328eb3cd47ead7690e426"
+    url = "https://github.com/JuliaBinaryWrappers/MIOpen_jll.jl/releases/download/MIOpen-v5.2.3+0/MIOpen.v5.2.3.x86_64-linux-gnu-cxx11.tar.gz"
