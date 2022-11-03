@@ -1,6 +1,6 @@
 name = "MIOpen_jll"
 uuid = "2409bb75-d5ef-542a-ac68-1cfd4c37dc24"
-version = "5.2.3+0"
+version = "5.2.3+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
