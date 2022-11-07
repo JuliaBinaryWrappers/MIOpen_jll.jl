@@ -7,4 +7,4 @@ os = "linux"
 
     [[MIOpen.download]]
     sha256 = "22c454b478e3ca4d909eba993de5b6fef44620d253e282b0a392aa1e240fc8aa"
-    url = "https://github.com/JuliaBinaryWrappers/MIOpen_jll.jl/releases/download/MIOpen-v5.2.3+1/MIOpen.v5.2.3.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MIOpen_jll.jl/releases/download/MIOpen-v5.2.3+2/MIOpen.v5.2.3.x86_64-linux-gnu-cxx11.tar.gz"

@@ -1,6 +1,6 @@
 name = "MIOpen_jll"
 uuid = "2409bb75-d5ef-542a-ac68-1cfd4c37dc24"
-version = "5.2.3+1"
+version = "5.2.3+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,7 +15,7 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.9"
 rocBLAS_jll = "5.2.3"
 HIP_jll = "5.2.3"
 boost_jll = "1.79.0"
